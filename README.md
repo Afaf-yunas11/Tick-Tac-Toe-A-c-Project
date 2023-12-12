@@ -135,7 +135,7 @@ After implementing and validating the troubleshooting steps, the Tic Tac Toe gam
 
 ## Github Repository Link
 
-https://github.com/Afaf-yunas11/23l-0745-23l-0523
+[https://github.com/Afaf-yunas11/23l-0745-23l-0523](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523)
 
 ## Cloning Repository
 
@@ -150,7 +150,7 @@ Open GitHub Desktop and sign in with your GitHub account credentials.
 
 Click on the "File" menu at the top left corner of the GitHub Desktop window.
 Select "Clone Repository" from the dropdown menu.
-In the "Clone a Repository" window, you'll see a list of your GitHub repositories. If the repository you want to clone will not be  listed so , click on the "URL" tab and paste the repository URL into the "URL" field  which is  https://github.com/Afaf-yunas11/23l-0745-23l-0523
+In the "Clone a Repository" window, you'll see a list of your GitHub repositories. If the repository you want to clone will not be  listed so , click on the "URL" tab and paste the repository URL into the "URL" field  which is [ https://github.com/Afaf-yunas11/23l-0745-23l-0523](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523)
 
 Choose the local path where you want to clone the repository.
 Click "Clone" to start the cloning process.
