@@ -88,54 +88,66 @@ After implementing and validating the troubleshooting steps, the Tic Tac Toe gam
 
 1.	Players get to enter their names to avoid confusion while taking turns later:
 
-   <img width="929" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/b6ab2f32-28fb-485e-8e56-003278819013">
+  
  
 
-3.	A tic tac toe board is shown with box numbers for the ease of the players:
+![Screenshot 2023-12-13 120055](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d1e1abf7-b385-4b63-b56a-484696610210)
+
+2.	A tic tac toe board is shown with box numbers for the ease of the players:
 (separate variables declared for coordinate of each box number)
 
- <img width="930" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/d140eac4-62f9-4660-91f1-9a5b36c92554">
+
+![Screenshot 2023-12-13 120110](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/8c266b03-c6a1-4390-b116-aa6067464d21)
 
 
-4.	Each player gets to choose his own symbol from a variety of given symbols:
+3.	Each player gets to choose his own symbol from a variety of given symbols:
 (functions)
  
-<img width="535" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/7b35ccdc-4a1b-45ba-bc54-b9ccbee3d84f">
+![Screenshot 2023-12-13 120122](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/b1a88c30-a03f-46f2-994a-51e122cbaff5)
 
-5.	The box number entered by the user is replaced with the user’s symbol on the board side by side:
+
+4.	The box number entered by the user is replaced with the user’s symbol on the board side by side:
 (functions)
+![Screenshot 2023-12-13 120133](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/31529a29-ae2b-41cc-bb3e-9f17ac4b7ea6)
 
- <img width="439" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/07257f14-c448-42c5-9e52-692997657bcc">
 
-6.	Each player gets a turn after the other player:
+
+5.	Each player gets a turn after the other player:
 (loops)
  
-<img width="564" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/795026e6-3d13-4896-a7b5-db1cff785a1d">
+![Screenshot 2023-12-13 120148](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/25ae746b-1503-46ea-afcf-eed8a7389562)
 
-7.	Winner after each round is announced and scores are updated side by side:
+
+6.	Winner after each round is announced and scores are updated side by side:
 (functions)
- 
-<img width="787" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/426bf8b4-d809-41aa-9d0b-3f6ab381e4ee">
+ ![Screenshot 2023-12-13 120158](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d1f3755f-e23d-482c-b6b4-29de56f6bc17)
 
-8.	A draw message displays if no one wins:
+
+
+7.	A draw message displays if no one wins:
 (If -else statements)
- 
-<img width="269" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/93cfff9d-6752-4d41-8955-95aca9f49c10">
+
+ ![Screenshot 2023-12-13 120220](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/5c83ac21-c286-4bb1-ad56-00973332baab)
+
+
 
 9.	An extra gift feature has been added for the final winner after three rounds:
 (If -else statements)
- 
-<img width="864" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/631c2340-7b87-4a25-b44b-290f26ece0c7">
+ ![Screenshot 2023-12-13 120238](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/32cec981-4c47-4b59-9708-89a8831c9fb8)
+
+
 
 10.	A list of dares appear if the user chooses dares, links appear for games and a list of facts appear for facts:
 (file handling)
- 
-<img width="937" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/c975d286-a589-4ef8-9ac7-243a90b7d0f1">
+ ![Screenshot 2023-12-13 120250](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d8109d41-71ce-4508-bb2c-f9bcf4477824)
+
+
 
 11.	The gift feature doesn’t appear if the overall game is a draw:
 (If -else statements)
- 
-<img width="489" alt="image" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/4cf710cf-c1e3-4f9a-9585-62e64eb04d3c">
+ ![Screenshot 2023-12-13 120301](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/8a29567f-072f-47ba-b53a-20f0846eabc7)
+
+
 
 ## Github Repository Link
 
