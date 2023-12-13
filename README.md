@@ -6,8 +6,8 @@ To set up and run a Tic Tac Toe on a new PC Follow these steps:
 
 1.	Install Visual Studio: Download and install the latest version of Visual Studio from the official Microsoft website. Make sure to select the "Desktop development with C++" workload during the installation process.
 
-<img width="917" alt="Screenshot 2023-12-08 214239" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/3dd961c9-cc3a-4f18-9e78-b30fa82e89ef">
 
+<img width="917" alt="Screenshot 2023-12-08 214239" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/c4ed3621-6343-467e-b077-5054582a0708">
 
 
 
@@ -18,6 +18,7 @@ To set up and run a Tic Tac Toe on a new PC Follow these steps:
  
 1.    After Visual Studio has been dowloaded perform these steps.
 2.		Create a new project: Open Visual Studio and go to "File" -> "New" -> "Project" to create a new project for your game. Choose “Empty Project”.
+3.		
  <img width="473" alt="Screenshot 2023-12-08 214523" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/a8dd5a4f-8fb7-452e-8d0e-60f098a00d32">
 
 3.	Add your game code: Open the source file ( with a .cpp extension) where you want to add the game code. You can either create a new file or modify the existing one. Write or paste your C++ code into the file and save it. Open ticktacktoe.cpp.
