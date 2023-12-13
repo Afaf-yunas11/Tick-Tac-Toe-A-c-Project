@@ -18,27 +18,29 @@ To set up and run a Tic Tac Toe on a new PC Follow these steps:
  
 1.    After Visual Studio has been dowloaded perform these steps.
 2.		Create a new project: Open Visual Studio and go to "File" -> "New" -> "Project" to create a new project for your game. Choose “Empty Project”.
-3.		
- <img width="473" alt="Screenshot 2023-12-08 214523" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/a8dd5a4f-8fb7-452e-8d0e-60f098a00d32">
+	
+<img width="473" alt="Screenshot 2023-12-08 214523" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/ee1d4716-1e7b-4c66-a00b-e82e137d95b8">
+
 
 3.	Add your game code: Open the source file ( with a .cpp extension) where you want to add the game code. You can either create a new file or modify the existing one. Write or paste your C++ code into the file and save it. Open ticktacktoe.cpp.
+<img width="575" alt="Screenshot 2023-12-08 214623" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/3af55582-5740-4532-a44d-ccd310e2b01b">
 
- <img width="575" alt="Screenshot 2023-12-08 214623" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/48f6719d-6842-4ff9-896d-b679e4373cf9">
+ 
 
  
 
 4.	Build your project: Click on the "Build" menu and select "Build Solution" to compile your project. Visual Studio will check for any errors in your code and generate the corresponding executable file.
  
-<img width="829" alt="Screenshot 2023-12-08 214725" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/261fdc8f-2cd3-418a-8091-f7fa48490a8e">
+<img width="829" alt="Screenshot 2023-12-08 214725" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/69260700-4ee1-4803-ab97-5acec082a79d">
+
 
 
 5.	Run your game: After the build process completes successfully, you can run your game by clicking on the "Start Debugging" button (usually a green play button) or by pressing the F5 key. If everything is set up correctly, your game should start running within Visual Studio's debugging environment.
    
- <img width="960" alt="Screenshot 2023-12-08 214901" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/1d29f6a4-f261-4ea5-88b0-fd9587b7b42a">
  
 6.	Now the game will start and following will be displayed:
 
-<img width="935" alt="Screenshot 2023-12-12 190107" src="https://github.com/Afaf-yunas11/README-File/assets/147866906/dead9934-1720-4d01-bb37-4b4bb8474629">
+
 
 ## Project Purpose
 
