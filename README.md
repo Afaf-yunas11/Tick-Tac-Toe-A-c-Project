@@ -6,7 +6,7 @@ To set up and run a Tic Tac Toe on a new PC Follow these steps:
 
 1.	Install Visual Studio: Download and install the latest version of Visual Studio from the official Microsoft website. Make sure to select the "Desktop development with C++" workload during the installation process.
 
-![setup pic](../Read Me file Images/Screenshot 2023-12-08 214239.png)
+
 
 
 
