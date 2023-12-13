@@ -37,8 +37,12 @@ To set up and run a Tic Tac Toe on a new PC Follow these steps:
 
 5.	Run your game: After the build process completes successfully, you can run your game by clicking on the "Start Debugging" button (usually a green play button) or by pressing the F5 key. If everything is set up correctly, your game should start running within Visual Studio's debugging environment.
    
+<img width="960" alt="Screenshot 2023-12-08 214901" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/f426bac8-5273-41b1-a099-26ceafcaafb3">
+
  
 6.	Now the game will start and following will be displayed:
+   
+<img width="935" alt="Screenshot 2023-12-12 190107" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/6b81a64e-cc43-4eb6-a200-97e0e4f72599">
 
 
 
