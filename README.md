@@ -1,8 +1,7 @@
 
 
 # 🎮 Tic Tac Toe – A C++ Programming Fundamentals Project for Beginners  
-Beginner level c++ terminal implemnetation of tic tac toe : **loops, functions, conditionals, arrays, and file handling**.
----
+Beginner level c++ **loops, functions, conditionals, arrays, and file handling**.
 
 ## 📌 Installation  
 
