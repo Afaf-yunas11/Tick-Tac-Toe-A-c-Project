@@ -1,7 +1,6 @@
 
-
 # 🎮 Tic Tac Toe – A C++ Programming Fundamentals Project for Beginners  
-Beginner level c++ **loops, functions, conditionals, arrays, and file handling**.
+Beginner level c++ project loops, functions, conditionals, arrays, and file handling.
 
 ## 📌 Installation  
 
