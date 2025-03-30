@@ -1,9 +1,7 @@
 
 
 # 🎮 Tic Tac Toe – A C++ Programming Fundamentals Project for Beginners  
-
-This project is a **simple yet interactive Tic Tac Toe game** designed for beginners learning **C++ programming**. It reinforces fundamental concepts like **loops, functions, conditionals, arrays, and file handling**, helping new programmers develop problem-solving skills while building a real-world application.  
-
+Beginner level c++ terminal implemnetation of tic tac toe : **loops, functions, conditionals, arrays, and file handling**.
 ---
 
 ## 📌 Installation  
