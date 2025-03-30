@@ -1,188 +1,147 @@
-# README-File
-Tick Tack Toe Project Guide
-## Installation
 
-To set up and run a Tic Tac Toe on a new PC Follow these steps:
 
-1.	Install Visual Studio: Download and install the latest version of Visual Studio from the official Microsoft website. Make sure to select the "Desktop development with C++" workload during the installation process.
+# 🎮 Tic Tac Toe – A C++ Programming Fundamentals Project for Beginners  
 
+This project is a **simple yet interactive Tic Tac Toe game** designed for beginners learning **C++ programming**. It reinforces fundamental concepts like **loops, functions, conditionals, arrays, and file handling**, helping new programmers develop problem-solving skills while building a real-world application.  
 
-<img width="917" alt="Screenshot 2023-12-08 214239" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/c4ed3621-6343-467e-b077-5054582a0708">
+---
 
+## 📌 Installation  
 
+To set up and run the **Tic Tac Toe** game on your PC, follow these steps:  
 
-2. Choose the edition: Visual Studio offers different editions depending on your needs. You can choose between the Community (free), Professional, and Enterprise editions. Click on the "Download" button for the edition you prefer. Community edition is preferred to run this game
+### 1️⃣ Install Visual Studio  
+- Download and install the latest **Visual Studio** version from the [official Microsoft website](https://visualstudio.microsoft.com/).  
+- During installation, select **"Desktop Development with C++"** workload.  
 
- ## Project Set Up
+<img width="917" alt="Screenshot 1" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/c4ed3621-6343-467e-b077-5054582a0708">  
 
- 
-1.    After Visual Studio has been dowloaded perform these steps.
-2.		Create a new project: Open Visual Studio and go to "File" -> "New" -> "Project" to create a new project for your game. Choose “Empty Project”.
-	
-<img width="473" alt="Screenshot 2023-12-08 214523" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/ee1d4716-1e7b-4c66-a00b-e82e137d95b8">
+### 2️⃣ Choose the Edition  
+- **Community Edition (Free)** is recommended for running this game.  
+- Other editions (**Professional, Enterprise**) can also be used.  
 
+---
 
-3.	Add your game code: Open the source file ( with a .cpp extension) where you want to add the game code. You can either create a new file or modify the existing one. Write or paste your C++ code into the file and save it. Open ticktacktoe.cpp.
-<img width="575" alt="Screenshot 2023-12-08 214623" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/3af55582-5740-4532-a44d-ccd310e2b01b">
+## 🛠 Project Setup  
 
- 
+### 1️⃣ Create a New Project  
+- Open **Visual Studio** → Click **File** → **New** → **Project** → Select **Empty Project**.  
 
- 
+<img width="473" alt="Screenshot 2" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/ee1d4716-1e7b-4c66-a00b-e82e137d95b8">  
 
-4.	Build your project: Click on the "Build" menu and select "Build Solution" to compile your project. Visual Studio will check for any errors in your code and generate the corresponding executable file.
- 
-<img width="829" alt="Screenshot 2023-12-08 214725" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/69260700-4ee1-4803-ab97-5acec082a79d">
+### 2️⃣ Add Game Code  
+- Open the **source file (.cpp extension)**.  
+- Copy-paste or write the **Tic Tac Toe** code.  
+- Open **ticktacktoe.cpp** and save it.  
 
+<img width="575" alt="Screenshot 3" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/3af55582-5740-4532-a44d-ccd310e2b01b">  
 
+### 3️⃣ Build and Run the Project  
+- Click **Build** → **Build Solution** to compile.  
+- Click **Start Debugging** or press **F5** to run the game.  
 
-5.	Run your game: After the build process completes successfully, you can run your game by clicking on the "Start Debugging" button (usually a green play button) or by pressing the F5 key. If everything is set up correctly, your game should start running within Visual Studio's debugging environment.
-   
-<img width="960" alt="Screenshot 2023-12-08 214901" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/f426bac8-5273-41b1-a099-26ceafcaafb3">
+<img width="829" alt="Screenshot 4" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/69260700-4ee1-4803-ab97-5acec082a79d">  
 
- 
-6.	Now the game will start and following will be displayed:
-   
-<img width="935" alt="Screenshot 2023-12-12 190107" src="https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/147866906/6b81a64e-cc43-4eb6-a200-97e0e4f72599">
+---
 
+## 🎯 Project Purpose  
 
+✅ **Beginner-Friendly** – Easy to learn and play for all age groups.  
+✅ **Develops Strategic Thinking** – Encourages logical reasoning and pattern recognition.  
+✅ **Enhances Problem-Solving Skills** – Requires analysis and decision-making.  
+✅ **Social & Fun** – Engages players in a friendly competition.  
+✅ **Relaxing & Entertaining** – A great break from routine while staying mentally active.  
 
-## Project Purpose
+---
 
-• It’s a game that can be easily learnt and therefore, can be played by people of all ages. The rules are easy to comprehend and involve a few concepts and moves.
+## 📌 Key Functionalities  
 
-• Despite being simple, it requires strategic thinking and planning. Players are supposed to analyze the ongoing situation and then make profound decisions that increase their chances of winning.
+### 🔹 Players Enter Their Names  
+- Each player enters a name to personalize the experience.  
 
-• It helps individuals to develop critical thinking by encouraging to think out of the box and to implement logical reasoning, pattern recognition and problem solving abilities to find the best move in order to win.
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d1e1abf7-b385-4b63-b56a-484696610210)  
 
-• This game also provides a vital opportunity for players to interact, to develop a bonding and consider it a friendly competition. It can be a fun and an engaging game to spend time with friends, family members etc.
+### 🔹 Interactive Tic Tac Toe Board  
+- Displays board with numbered boxes for easy input.  
 
-• Additionally, tic-tac-toe is an enjoyable and an entertaining game which can be played by players regardless of their age. It no doubt offers a break from daily routine and can help relax the mind while still engaging it.
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/8c266b03-c6a1-4390-b116-aa6067464d21)  
 
-## Prerequisites
+### 🔹 Symbol Selection  
+- Players choose their own game symbol.  
 
-There are no such prerequisites but the players should be well aware of the rules and how the game works. The players, one by one, mark their symbols in the squares. The main objective is to win by making either a horizontal, vertical or diagonal pattern of your symbol before the other player does. The players take alternate turns and the winner is announced the moment the player succeeds in forming a pattern as mentioned before.
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/b1a88c30-a03f-46f2-994a-51e122cbaff5)  
 
+### 🔹 Turns & Game Progression  
+- Players take turns marking symbols on the board.  
 
-## Troubleshooting Common Issues
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/31529a29-ae2b-41cc-bb3e-9f17ac4b7ea6)  
 
-The implementation of the Tic Tac Toe game in C++ encountered several problems during testing and use. The following troubleshooting steps were followed to identify and resolve these issues.
+### 🔹 Winner Announcement & Score Updates  
+- The winner is displayed after each round.  
 
-### Problems found:
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d1f3755f-e23d-482c-b6b4-29de56f6bc17)  
 
-1.	Win Condition Bug: The game was not correctly identifying victory conditions, resulting in incorrect declarations of winners or ties.
-2.	Input validation failure: Invalid user input was not handled properly, causing unexpected behavior.
-3.	User Interface Update: The User Interface was not updating consistently to reflect the current state of the game.
+### 🔹 Draw Scenario  
+- If no player wins, the game announces a **draw**.  
 
-### Troubleshooting steps taken:
-Code Review: The game logic was thoroughly reviewed to identify any discrepancies in the victory condition verification algorithm. A logical error was found in the win condition verification and was fixed by adjusting the verification mechanism to correctly identify winning combinations.
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/5c83ac21-c286-4bb1-ad56-00973332baab)  
 
-Improved input validation: Implemented improved input validation to handle out-of-range inputs and already occupied cells. Users are now prompted to re-enter their move by providing invalid input.
+### 🔹 Bonus Feature 🎁  
+- The final winner gets a **surprise reward** after three rounds!  
 
-User Interface Restructure: Updated the User Interface refresh features to ensure the screen accurately reflects the current state of the game board. Modifications were made to ensure proper representation of the game board after each move.
+![Screenshot](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/32cec981-4c47-4b59-9708-89a8831c9fb8)  
 
-### Testing and validation:
+---
 
-Extensive testing was performed after each troubleshooting step to ensure that the implemented changes resolved the identified issues. Test cases covering various motion sequences, edge cases, and invalid inputs were run to verify the correctness of the solutions.
+## 🛠 Troubleshooting Common Issues  
 
-### Resolution:
+### ⚠️ Problems Encountered  
+❌ **Win Condition Bug** – Incorrect winner detection.  
+❌ **Input Validation Issue** – Invalid inputs caused unexpected behavior.  
+❌ **UI Update Delay** – Game board didn’t refresh correctly.  
 
-After implementing and validating the troubleshooting steps, the Tic Tac Toe game now works as expected, accurately identifying victory conditions, correctly handling user input, and updating the UI consistently to reflect the status. current game
+### ✅ Solutions Implemented  
+✔ **Fixed Win Condition Algorithm** – Ensured accurate winner detection.  
+✔ **Enhanced Input Validation** – Handled out-of-range & occupied cell inputs.  
+✔ **UI Refresh Optimization** – Improved board updates after each move.  
 
-## Key Functionalities via ScreenShots
+---
 
+## 🔗 Running the Code  
 
+To **run the project**, follow these steps:  
 
-1.	Players get to enter their names to avoid confusion while taking turns later:
+1️⃣ Open **main.cpp** in Visual Studio.  
+2️⃣ Click **Build** → **Build Solution**.  
+3️⃣ Click **Start Debugging** or press **F5**.  
+4️⃣ **Enjoy playing Tic Tac Toe!**  
 
-  
- 
+👉 **This project was developed using Dev-C++, but it runs smoothly on other C++ IDEs as well.**  
 
-![Screenshot 2023-12-13 120055](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d1e1abf7-b385-4b63-b56a-484696610210)
+---
 
-2.	A tic tac toe board is shown with box numbers for the ease of the players:
-(separate variables declared for coordinate of each box number)
+## 🔗 Database Preview  
 
+- You can **preview the game’s database** on **SQLite Viewer**:  
+[SQLite Database Preview](https://sqliteviewer.app/#/LMSdatabase.db/table/LIBRARIAN/)  
+- Also, open the **LMSdatabase.db** file in **SQLite Viewer** for a better look.  
 
-![Screenshot 2023-12-13 120110](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/8c266b03-c6a1-4390-b116-aa6067464d21)
+---
 
+## 🚀 Github Repository  
 
-3.	Each player gets to choose his own symbol from a variety of given symbols:
-(functions)
- 
-![Screenshot 2023-12-13 120122](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/b1a88c30-a03f-46f2-994a-51e122cbaff5)
+📂 **Clone the repository using GitHub Desktop:**  
 
+1️⃣ Download & install **GitHub Desktop** from [here](https://desktop.github.com/).  
+2️⃣ Open GitHub Desktop → **File** → **Clone Repository**.  
+3️⃣ Copy & paste the repository URL:  
+🔗 [Tic Tac Toe Repository](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523)  
+4️⃣ Choose a local folder and **click "Clone"**.  
 
-4.	The box number entered by the user is replaced with the user’s symbol on the board side by side:
-(functions)
-![Screenshot 2023-12-13 120133](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/31529a29-ae2b-41cc-bb3e-9f17ac4b7ea6)
+---
 
+### 📧 Contact Us  
 
-
-5.	Each player gets a turn after the other player:
-(loops)
- 
-![Screenshot 2023-12-13 120148](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/25ae746b-1503-46ea-afcf-eed8a7389562)
-
-
-6.	Winner after each round is announced and scores are updated side by side:
-(functions)
- ![Screenshot 2023-12-13 120158](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d1f3755f-e23d-482c-b6b4-29de56f6bc17)
-
-
-
-7.	A draw message displays if no one wins:
-(If -else statements)
-
- ![Screenshot 2023-12-13 120220](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/5c83ac21-c286-4bb1-ad56-00973332baab)
-
-
-
-9.	An extra gift feature has been added for the final winner after three rounds:
-(If -else statements)
- ![Screenshot 2023-12-13 120238](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/32cec981-4c47-4b59-9708-89a8831c9fb8)
-
-
-
-10.	A list of dares appear if the user chooses dares, links appear for games and a list of facts appear for facts:
-(file handling)
- ![Screenshot 2023-12-13 120250](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/d8109d41-71ce-4508-bb2c-f9bcf4477824)
-
-
-
-11.	The gift feature doesn’t appear if the overall game is a draw:
-(If -else statements)
- ![Screenshot 2023-12-13 120301](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523/assets/151608625/8a29567f-072f-47ba-b53a-20f0846eabc7)
-
-
-
-## Github Repository Link
-
-[https://github.com/Afaf-yunas11/23l-0745-23l-0523](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523)
-
-## Cloning Repository
-
-### Install GitHub Desktop:
-
-Download and install GitHub Desktop from the official GitHub Desktop website: GitHub Desktop.
-Follow the installation instructions for your operating system.
-### Log in to GitHub Desktop:
-
-Open GitHub Desktop and sign in with your GitHub account credentials.
-### Clone a Repository:
-
-Click on the "File" menu at the top left corner of the GitHub Desktop window.
-Select "Clone Repository" from the dropdown menu.
-In the "Clone a Repository" window, you'll see a list of your GitHub repositories. If the repository you want to clone will not be  listed so , click on the "URL" tab and paste the repository URL into the "URL" field  which is [ https://github.com/Afaf-yunas11/23l-0745-23l-0523](https://github.com/Afaf-yunas11/Project-23-l0745-23-l0523)
-
-Choose the local path where you want to clone the repository.
-Click "Clone" to start the cloning process.
-
-## Accessing Cloned Repository:
-
-Once the cloning process is complete, you'll have a local copy of the repository on your computer.
-You can navigate to this repository within GitHub Desktop to view its files and manage it.
-
-
-
-
+For any queries or feedback, reach out at:  
+📩 **l230745@lhr.nu.edu.pk**  
 
